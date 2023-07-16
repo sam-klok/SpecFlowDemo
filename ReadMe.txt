@@ -15,6 +15,9 @@ Microsoft.Extensions.Configuration.Binder
 Microsoft.Extensions.Configuration.Json
 DotNetSeleniumExtras.PageObjects.Core 	https://github.com/Dreamescaper/DotNetSeleniumExtras.Core
 
-4. Pluralsight training
+4. Step-By-Step Getting Started Guide
+https://docs.specflow.org/projects/getting-started/
+
+5. Pluralsight training
 Behavior-Driven Development (BDD) Testing with Appium and SpecFlow 3 by Marko Vajs
 https://app.pluralsight.com/library/courses/appium-specflow-bdd-testing/table-of-contents

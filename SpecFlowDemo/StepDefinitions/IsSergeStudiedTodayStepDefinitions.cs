@@ -9,7 +9,7 @@ namespace SpecFlowDemo.StepDefinitions
         [Given(@"Serge have computer")]
         public void GivenSergeHaveComputer()
         {
-            throw new PendingStepException();
+            
         }
 
         [When(@"Task arrive")]
